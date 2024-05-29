@@ -37,7 +37,7 @@
 | 名称             | 功能描述              | 是否开源                                                     | 进展                  |
 | ---------------- | --------------------- | ------------------------------------------------------------ | --------------------- |
 | AI-Linker-Server | AI-Linker后台服务系统 | 是                                                           | 预计6月中旬开源       |
-| AI-Linker-Dev    | AI-Linker硬件模组     | 硬件以及通信协议开源、当前固件暂不开源、<br />后续会出一个的开源版的固件(基于arduino开发) | 预计6月中旬可提供套件 |
+| AI-Linker-Dev    | AI-Linker硬件模组     | 硬件以及通信协议开源、当前固件暂不开源、<br />后续会出一个开源版的固件(基于arduino开发) | 预计6月中旬可提供套件 |
 |                  |                       |                                                              |                       |
 
 ### 3.2演示视频
@@ -56,9 +56,17 @@ AI-Linker 项目旨在促进人工智能以及人机交互技术的发展，我�
 
 
 
+
+
 ## 五、开源许可
 
 Copyright © 2024 [NYCF](https://github.com/NYCF).
 
 This project is [MIT](https://github.com/lobehub/lobe-chat/blob/main/LICENSE) licensed.
+
+
+
+## 六、资料分享
+
+大模型使用和python入门学习: https://gitee.com/zq51/startWithAI
 
